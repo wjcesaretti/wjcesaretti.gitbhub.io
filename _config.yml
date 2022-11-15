@@ -20,11 +20,11 @@ author: William Cesaretti
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "I dont know"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - website: "yes"
+    - website 2: "no"
+  Author's home: this is my home
 
 ################
 # --- Logo --- #
